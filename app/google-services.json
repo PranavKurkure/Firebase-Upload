@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "736383105547",
+    "firebase_url": "https://nerd-upload.firebaseio.com",
+    "project_id": "nerd-upload",
+    "storage_bucket": "nerd-upload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736383105547:android:3ccc57b40a9cdfb4bf650e",
+        "android_client_info": {
+          "package_name": "com.example.nerdupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736383105547-kl4hrvkr246nm37j95chnaj60rcdjibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdD0GU4i_q2RxjQr5H1xkRZI92cTEAi4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736383105547-kl4hrvkr246nm37j95chnaj60rcdjibm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
