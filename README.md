@@ -21,3 +21,10 @@ service firebase.storage {
     }
   }
 }
+
+
+Then configure the project in android studio by simply selection Tools -> Firebase -> Storage
+And then follow the steps.
+
+You can also configure and use different tools like MLkit, Function, Realtime Database and many more services provided by firebase in a similar way
+Don't forget to update all the dependencies as and when new one's are available.
